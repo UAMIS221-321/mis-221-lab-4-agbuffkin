@@ -1,0 +1,15 @@
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\bin\Debug\net8.0\mis-221-lab-4-agbuffkin.exe
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\bin\Debug\net8.0\mis-221-lab-4-agbuffkin.deps.json
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\bin\Debug\net8.0\mis-221-lab-4-agbuffkin.runtimeconfig.json
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\bin\Debug\net8.0\mis-221-lab-4-agbuffkin.dll
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\bin\Debug\net8.0\mis-221-lab-4-agbuffkin.pdb
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\obj\Debug\net8.0\mis-221-lab-4-agbuffkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\obj\Debug\net8.0\mis-221-lab-4-agbuffkin.AssemblyInfoInputs.cache
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\obj\Debug\net8.0\mis-221-lab-4-agbuffkin.AssemblyInfo.cs
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\obj\Debug\net8.0\mis-221-lab-4-agbuffkin.csproj.CoreCompileInputs.cache
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\obj\Debug\net8.0\mis-221-lab-4-agbuffkin.sourcelink.json
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\obj\Debug\net8.0\mis-221-lab-4-agbuffkin.dll
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\obj\Debug\net8.0\refint\mis-221-lab-4-agbuffkin.dll
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\obj\Debug\net8.0\mis-221-lab-4-agbuffkin.pdb
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\obj\Debug\net8.0\mis-221-lab-4-agbuffkin.genruntimeconfig.cache
+C:\Users\annab\Desktop\Coding\MIS 221\mis-221-lab-4-agbuffkin\obj\Debug\net8.0\ref\mis-221-lab-4-agbuffkin.dll
